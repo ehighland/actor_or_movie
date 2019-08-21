@@ -4,7 +4,7 @@
 
 For this project, I used data from 20 different Wikipedia articles. The dataset includes the pages for 10 actors and 10 movies. Rather than analyze the text directly, I used part-of-speech (POS) tagging and named entity recognition (NER) tagging on word-tokenized data to obtain numerical measurements of the dataset. More specifically, I counted the amount of each tag for each actor or movie.
 
-I used four different machine learning algorithms for classifying the articles. The algorithms I used are Naive Bayes, Decision Tree, and the ensemble method Gradient Boosting.
+I used three different machine learning algorithms for classifying the articles. The algorithms I used are Naive Bayes, Decision Tree, and the ensemble method Gradient Boosting.
 
 ### About the Data Set
 
